@@ -11,10 +11,10 @@ npm install pm2 -g
 pm2 startup
 --Pones el comando que te arroja
 sudo apt-get install git
-git config --global user.name "AlbertoApaza"
-git config --global user.email alberto.apaza@vallegrande.edu.pe
-git clone https://github.com/vallegrande/AS231S2_T06.git
-cd AS231S2_T06
+git config --global user.name "GraciaGarcia"
+git config --global user.email gracia.garcia@vallegrande.edu.pe
+git clone https://github.com/vallegrande/AS231S2_T04.git
+cd AS231S2_T04
 git switch Sitio-Web 
 nano .env
 --------------------------------------
